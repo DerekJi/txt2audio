@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.mp3
+*.wav
+output/
+.venv/
+venv/
+
+txt/*
+!txt/sample.txt
