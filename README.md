@@ -11,7 +11,7 @@ A lightweight, local developer tool built to convert English text into high-qual
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com<your-username>/txt2audio.git
+git clone https://github.com/DerekJi/txt2audio.git
 cd txt2audio
 ```
 
